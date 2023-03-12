@@ -1,0 +1,12 @@
+{
+  "name": "consumindo-api-axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {},
+  "author": "George Felipe",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4"
+  }
+}
