@@ -8,7 +8,7 @@ Utilizando a Api 'node-api-discover' criada pela professora Jakelliny do curso d
 
 1.2 
 
-Cada função criada representa os metodos Https "GET" "POST" "PUT" "DELETE", para criar requisições dentro do servidor utilzando a lib "axios"
+Cada função criada no arquivo 'main.js' representa os metodos Https "GET" "POST" "PUT" "DELETE", para criar requisições dentro do servidor utilzando a lib "axios"
 
 
 
