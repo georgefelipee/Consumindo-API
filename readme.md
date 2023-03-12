@@ -4,7 +4,7 @@
 
 1.1
 
-Com o uso da Api 'node-api-discover' criada pela professora Jakelliny do curso de Api da rocketseat
+Utilizando a Api 'node-api-discover' criada pela professora Jakelliny do curso de Api da rocketseat
 
 1.2 
 
